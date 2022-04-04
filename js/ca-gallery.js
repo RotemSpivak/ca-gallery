@@ -113,8 +113,3 @@ function getProjects(){
     createProj('In-Picture-Game','What\'s in the picture?', 'Click on the correct answer', 'img/portfolio/05-thumbnail.jpg','computer game', `href="https://rotemspivak.github.io/in-picture-game/"`)
   ]
 }
-
-
-function projectNewTab(name){
-
-}
